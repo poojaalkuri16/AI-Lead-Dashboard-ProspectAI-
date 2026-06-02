@@ -84,23 +84,22 @@ AI Insights Dashboard
 ---
 
 ## Screenshots
+<img width="1891" height="986" alt="image" src="https://github.com/user-attachments/assets/5ba726b6-de11-4d8e-afb1-6d7986d5227a" />
 
 ### Dashboard
 - Lead KPIs
 - Revenue Analytics
 - Conversion Funnel
 - AI Insights
-<img width="1894" height="982" alt="image" src="https://github.com/user-attachments/assets/ebd80657-dbed-4b4f-a896-f4d97b1a7091" />
-<img width="1888" height="995" alt="image" src="https://github.com/user-attachments/assets/8d26a30b-59ec-41a1-aefa-9c53ded905d3" />
-<img width="1898" height="998" alt="image" src="https://github.com/user-attachments/assets/c2373079-64a1-466e-b3f4-d25b77f28a14" />
-
-
-
+<img width="1887" height="976" alt="image" src="https://github.com/user-attachments/assets/ba4378eb-227c-4130-88dd-5a8c3e19ef98" />
+<img width="1894" height="986" alt="image" src="https://github.com/user-attachments/assets/11fd7d0b-b4c3-4a19-be0d-68ccf091d94f" />
+<img width="1896" height="987" alt="image" src="https://github.com/user-attachments/assets/f2dcd629-2900-45da-baaf-7af40ce5ab64" />
 
 ### Upload Leads
 - CSV Upload
 - Data Processing
 - AI Enrichment
+<img width="1915" height="995" alt="image" src="https://github.com/user-attachments/assets/b07ad26e-2146-4ec6-9267-0e9e477584ea" />
 
 ---
 
