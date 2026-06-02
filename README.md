@@ -206,7 +206,7 @@ ProspectAI automatically generates insights such as:
 
 ## Author
 
-**Pooja Alkuri**
+**Pooja A**
 
 Aspiring Software Engineer passionate about AI-powered applications, analytics platforms, and intelligent automation.
 
