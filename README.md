@@ -90,6 +90,12 @@ AI Insights Dashboard
 - Revenue Analytics
 - Conversion Funnel
 - AI Insights
+<img width="1894" height="982" alt="image" src="https://github.com/user-attachments/assets/ebd80657-dbed-4b4f-a896-f4d97b1a7091" />
+<img width="1888" height="995" alt="image" src="https://github.com/user-attachments/assets/8d26a30b-59ec-41a1-aefa-9c53ded905d3" />
+<img width="1898" height="998" alt="image" src="https://github.com/user-attachments/assets/c2373079-64a1-466e-b3f4-d25b77f28a14" />
+
+
+
 
 ### Upload Leads
 - CSV Upload
